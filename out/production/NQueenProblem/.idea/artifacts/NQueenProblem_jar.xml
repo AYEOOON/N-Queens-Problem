@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NQueenProblem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NQueenProblem_jar</output-path>
+    <root id="archive" name="NQueenProblem.jar">
+      <element id="module-output" name="NQueenProblem" />
+      <element id="module-output" name="src" />
+    </root>
+  </artifact>
+</component>
