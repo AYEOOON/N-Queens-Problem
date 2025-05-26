@@ -166,5 +166,5 @@ QueenPlacementGUI는 현재 퀸의 배치 상태를 시각적으로 표시한다
 ---
 
 
-**[프로그램 실행 영상]**
+**[프로그램 실행 영상]**  
 https://youtu.be/eJLiNFQ6KWU
